@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hotel Booking</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem">Lorem ipsum dolor sit amet</string>
+    <string name="string_booked">Booked</string>
+    <string name="string_available">Available</string>
+
+</resources>
